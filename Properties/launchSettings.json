@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AutoGenTestTask": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "OPENAI_API_KEY": ""
+      }
+    }
+  }
+}
